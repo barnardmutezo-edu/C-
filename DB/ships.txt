@@ -1,0 +1,4 @@
+PlayerShip|../Assets/Images/fighter.png|../Assets/Images/lazer2Cropped.png|../Assets/Sounds/lazer.wav|3|0|
+EnemyShip|../Assets/Images/enemyShip.png|../Assets/Images/enemybeam.png|../Assets/Sounds/lazer2.wav|2|1|200|-800|
+EnemyShip|../Assets/Images/enemyShip.png|../Assets/Images/enemybeam.png|../Assets/Sounds/lazer2.wav|2|1|300|-600|
+EnemyShip|../Assets/Images/enemyShip.png|../Assets/Images/enemybeam.png|../Assets/Sounds/lazer2.wav|2|1|600|-300|

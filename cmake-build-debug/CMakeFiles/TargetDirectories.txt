@@ -1,0 +1,3 @@
+/Users/barnardmutezo/Library/CloudStorage/OneDrive-HøyskolenKristiania/Barnard Uni/Semester 4/C++ Programming/Eksamen/PG400_Eksamen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/barnardmutezo/Library/CloudStorage/OneDrive-HøyskolenKristiania/Barnard Uni/Semester 4/C++ Programming/Eksamen/PG400_Eksamen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/barnardmutezo/Library/CloudStorage/OneDrive-HøyskolenKristiania/Barnard Uni/Semester 4/C++ Programming/Eksamen/PG400_Eksamen/cmake-build-debug/CMakeFiles/PG400_Eksamen.dir

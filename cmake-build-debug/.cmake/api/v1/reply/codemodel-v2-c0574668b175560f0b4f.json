@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PG400_Eksamen",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PG400_Eksamen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PG400_Eksamen-Debug-32e6381f388323ab847b.json",
+					"name" : "PG400_Eksamen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/barnardmutezo/Library/CloudStorage/OneDrive-HøyskolenKristiania/Barnard Uni/Semester 4/C++ Programming/Eksamen/PG400_Eksamen/cmake-build-debug",
+		"source" : "/Users/barnardmutezo/Library/CloudStorage/OneDrive-HøyskolenKristiania/Barnard Uni/Semester 4/C++ Programming/Eksamen/PG400_Eksamen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
